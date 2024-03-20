@@ -1,5 +1,4 @@
 # FitTracker
-#### Video Demo:  <https://youtu.be/Rs9QrrScKe0>
 #### Description:
 Console application for tracking your body and exercise data. The program contains two classes “Exercise” and “Human”. Class Exercise gets and sets data about every exercise in the exercise.csv file. This program has four functions to operate on the Exercise class, to show all exercises in the exercise.csv file, add a new exercise, show exercises from a given category, and to delete a exercise by giving its name. Class Human however gets and sets data about our body data in the human.csv file. For the Human class we have four functions, to show all data from every date to check our progress, add new body data, check current data based on the earliest date in the human.csv file, and printing our BMI (Body Mass Index). In the project we have tests (test.py) which check the correct operation of individual functions in the program by mocking its data. The requirements.txt file has all the libraries needed for the proper functioning of the program.
 #### Classes
@@ -30,7 +29,7 @@ Console application for tracking your body and exercise data. The program contai
 
 #### Clone the project
 ```bash
-    git clone https://github.com/me50/AdrianJablo.git
+    git clone https://github.com/AdrianJablo/FitTracker
 ```
 
 #### Runing Program
